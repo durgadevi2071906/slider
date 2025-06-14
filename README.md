@@ -1,7 +1,9 @@
 # Slider
 ## Quick Start
 Sabse Pahle Swiper Package Install Kisiye.
-``` npm install swiperjs ```
+```Base
+npm install swiperjs
+```
 ** Pushpendra Rajpoot **
 [gurhadev]
 
